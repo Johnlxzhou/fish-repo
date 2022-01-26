@@ -1,3 +1,6 @@
 i want to be back with nicholas.
 
-hi
+i want to be back with nicholas.
+
+new branch
+>>>>>>> new
