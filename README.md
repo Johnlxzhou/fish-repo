@@ -12,3 +12,7 @@ Update2: We have started mining for cobalt and orichalcum. Adamantite has not be
 Plan3: destroy more altars in order to spawn in more hardmode ore, kill slime queen and begin preparing for the mechanical bosses.
 
 Update3: altars destroyed, more ores found. Queen Slime and all mechanical bosses killed. Orichalcum set acquired. True Night's Edge acquire along with other new gear. Able to beat hallow mimic now. We require more Hallow bars and soul of light. Space has been reached, no wyverns,
+
+plan4: find plantera and beat her, find wyverns and get soul of flight for better wings, get more hallow from mechanical bosses and defeat wall of flesh to get emblems
+
+//hi nicholas
