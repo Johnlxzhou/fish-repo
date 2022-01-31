@@ -15,6 +15,6 @@ Update3: altars destroyed, more ores found. Queen Slime and all mechanical bosse
 
 plan4: find plantera and beat her, find wyverns and get soul of flight for better wings, get more hallow from mechanical bosses and defeat wall of flesh to get emblems
 
-Update4: Gained a new light pet. Beat plantera, purified enough corruption to gain new NPCs such as the steampunker. Created teleporters to the jungle biome. Defeated a pirate invasion. Nicholas gained a pigmy staff and a seedling pet.
+Update4: Gained a new light pet and chlorophite armor. Cleared the rest of the Skeletron Dungeon. Beat plantera, purified enough corruption to gain new NPCs such as the steampunker. Created teleporters to the jungle biome. Defeated a pirate invasion. Nicholas gained a pigmy staff and a seedling pet.
 
 plan5: get a shark fin for mini-shark. Create a mushroom biome for the truffle and get auto-hammer for hoverboard. Activate a blood moon if shark fin is still needed.
